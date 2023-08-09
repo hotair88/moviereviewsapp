@@ -4,6 +4,8 @@ The Django app is divided into four modules:
 3.  *accounts* : Handles POST request to create new users, checks if a username has already been taken and implements log-in/log-out functionality.
 4.  *news* : Defines the news Model for storing news articles; the view for retrieving news objects from the database and then passing them to the news.html template for display.
 
+__Pillow__ (Python Imaging Library) has been used for image processing.
+
 # Functionality:
 __Search bar:__ 
 ![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/06638967-bd42-460a-8ed6-791ba34b3274)
