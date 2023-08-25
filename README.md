@@ -8,7 +8,8 @@ __Pillow__ (Python Imaging Library) has been used for image processing.
 
 # Functionality:
 __Search bar:__ 
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/06638967-bd42-460a-8ed6-791ba34b3274)
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/921372aa-1dde-4337-8ede-6993f5985c11)
+
 ![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/1640d3ae-e96f-4a4e-9d16-56ccbe6304e3)
 
 
