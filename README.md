@@ -10,24 +10,32 @@ __Pillow__ (Python Imaging Library) has been used for image processing.
 __Search bar:__ 
 ![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/921372aa-1dde-4337-8ede-6993f5985c11)
 
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/1640d3ae-e96f-4a4e-9d16-56ccbe6304e3)
-
 
 __Log-in/sing-up page:__ 
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/5fa34d16-3847-411c-ae8f-91087f35834b)
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/3d1a0887-0a3e-4cdf-98b0-eec175838f07)
+
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/f7567836-842e-4fb2-8c91-7a494be0cbef)
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/1b59c0c4-1b3e-4c5e-81c5-2014ae36279a)
+
 
 
 __Home page:__ 
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/dab7ff78-3752-4d2b-b40e-d3e33cea0872)
+
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/c55de0ff-47c6-4f98-bd90-b27014484b41)
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/d472363a-e5ea-4ef3-a9be-e6cd06b4196d)
+
 
 
 __Movie-details page:__
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/bf36c750-ad72-47ab-b017-62b324326337)
+
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/c3afdb6c-66cd-4e7f-b101-618c0961c25d)
 
 
 __News page:__
-![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/03a685ab-daa4-4774-a8ae-1c95f304ab2b)
+
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/ea983cf5-1a19-41a4-b348-75bb2210dc8e)
+![image](https://github.com/hotair88/moviereviewsapp/assets/105349649/acfaa273-b8b7-42e8-beff-506b2a1cd78f)
+
+
 
 
 
